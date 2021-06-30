@@ -1,7 +1,7 @@
 # dhruvinrsoni-zebra.github.io
 # Welcome
 
-<a target="_blank" href="https://dhruvinrsoni-zebra.github.io/">Visit Deployed Website</a>
+<a href="https://dhruvinrsoni-zebra.github.io/" target="_blank" rel="noopener noreferrer">Visit Deployed Website</a>
 
 <br />👋 Hi, I’m @dhruvinrsoni-zebra
 <br />👀 I’m interested in Web Development Technologies, and ultimately anything that interests above and below the skies and for which we can have interesting conversation over a cup of tea.
