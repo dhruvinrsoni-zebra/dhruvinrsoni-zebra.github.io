@@ -3,7 +3,7 @@
 
 <a href="https://dhruvinrsoni-zebra.github.io/" target="_blank" rel="noopener noreferrer">Visit Deployed Website</a>
 
-<br />👋 Hi, I’m @dhruvinrsoni-zebra
+<br />👋 Hi, I’m [@dhruvinrsoni-zebra](https://github.com/dhruvinrsoni-zebra)
 <br />👀 I’m interested in Web Development Technologies, and ultimately anything that interests above and below the skies and for which we can have interesting conversation over a cup of tea.
 <br />🌱 I’m currently learning DevOps = Docker->Kubernetes->GCP.
 <br />💞️ I’m looking to collaborate on my current tech stack or let's explore something new
