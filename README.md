@@ -7,5 +7,11 @@
 <br />👀 I’m interested in Web Development Technologies, and ultimately anything that interests above and below the skies and for which we can have interesting conversation over a cup of tea.
 <br />🌱 I’m currently learning DevOps = Docker->Kubernetes->GCP.
 <br />💞️ I’m looking to collaborate on my current tech stack or let's explore something new
-<br />📫 How to reach me at professionally using dhruvin.soni@zebra.com or personally via MyHandle <a href="https://github.com/dhruvinrsoni" target="_blank" rel="noopener noreferrer">@dhruvinrsoni</a>
+<br />📫 How to reach me at professionally on my [LinkedIn](https://www.linkedin.com/in/dhruvinrsoni/) or personally via MyHandle <a href="https://github.com/dhruvinrsoni" target="_blank" rel="noopener noreferrer">@dhruvinrsoni</a>
 <br />📩 You can see my GitHub profile at <a href="https://github.com/dhruvinrsoni-zebra" target="_blank" rel="noopener noreferrer">here</a>
+
+
+# Website - [dhruvinrsoni \| Welcome to my GitHub profile! https://dhruvinrsoni.github.io/dhruvinrsoni/](https://dhruvinrsoni.github.io/dhruvinrsoni/)
+
+
+# GitHub - [dhruvinrsoni (Dhruvin Soni)](https://github.com/dhruvinrsoni)
