@@ -55,7 +55,27 @@ Welcome to my GitHub Page section of Professional Journey! Here, I share key mil
 
 In July 2019, I embarked on an exciting journey with Reflexis Systems, now part of Zebra Technologies. Over the past five years, I've grown immensely, contributing to meaningful projects and honing my skills in full stack development, cloud computing, and DevOps.
 
-[Check out my LinkedIn post for more insights!](https://www.linkedin.com/posts/activity-7213586248383287297-gZ3I?utm_source=share&utm_medium=member_desktop)
+“Five Years of Growth: My Journey at Zebra Technologies”
+
+Introduction:
+Reflecting on my journey at Zebra Technologies, I am both proud and grateful for the growth and experiences I’ve had over the past five years. This milestone is a testament to the incredible support from my mentors, colleagues, and the innovative projects I’ve been a part of.
+
+Journey:
+My career began in July 2019, joining Reflexis Systems as a Software Developer. Working in the Advanced Analytics team, I immersed myself in backend development for the AI Performance Manager, laying a strong foundation for my technical skills.
+
+Growth:
+Throughout the years, I’ve achieved significant milestones. From developing core product features to leveraging Google Cloud technologies post-Zebra acquisition, I’ve continuously expanded my technical horizons. Implementing automated CI/CD pipelines and scalable ETL functions has been a rewarding experience.
+
+Reflections:
+This journey has been filled with highs, such as successful product launches, and challenges like navigating the global pandemic. Staying committed to one organization has taught me the value of loyalty and long-term relationships, principles I hold dear.
+
+Looking Ahead:
+As I look to the future, I am eager to continue my professional growth in data science and AI. Exploring new-gen trends and big data solutions, I aim to drive innovation and make a meaningful impact in the tech industry.
+
+Gratitude:
+I am deeply thankful for the support and guidance of my managers, directors, and colleagues. Your encouragement has been instrumental in my journey, and I look forward to many more years of collaboration and success.
+
+[Check out my LinkedIn post for more insights!](https://www.linkedin.com/posts/activity-7213586248383287297-gZ3I?utm_source=share&utm_medium=member_desktop) Awarded 5-Year Service Award at Zebra Technologies for outstanding contributions in software development and innovation. Demonstrated leadership in cloud computing and DevOps, enhancing product efficiency and customer satisfaction.
 
 ### 📅 Timeline of Achievements
 
